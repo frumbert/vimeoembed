@@ -31,6 +31,3 @@ class filter_vimeoembed extends moodle_text_filter {
 
     }
 }
-
-?>
-
